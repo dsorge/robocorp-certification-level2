@@ -1,0 +1,6 @@
+images
+receipts
+*.html
+output.xml
+receipts.zip
+orders.csv
